@@ -1,0 +1,33 @@
+#square {
+    height: 6em;
+    width: 10em;
+    background: red;
+        }
+        .name {
+            background-color: white;
+            justify-content: center;
+            width: 10em;
+        }
+        .hello {
+            text-align: center;
+            color: white;
+        }
+        .h2 {
+            text-align: center;
+            color: white;
+        }
+        #whitebox {
+            background-color: white;
+            width: 10em;
+            height: 3em;
+            margin-top: -2em;
+            justify-content: center;
+        }
+.h4 {
+    text-align: center;
+    padding-top: .75em;
+}
+.body {
+    background-color: black;
+}
+     
